@@ -9,6 +9,10 @@ yarn android # 编译运行
 
 ## 截图
 
-可以看到文本末尾被截断
+开启文本排版优化，可以看到文本末尾被截断
 
 <img src='./Screenshot.jpg' />
+
+关闭后，文本正常
+
+<img src='./Screenshot2.jpg' />
